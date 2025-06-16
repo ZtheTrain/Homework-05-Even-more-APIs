@@ -4,8 +4,11 @@ A repository containing homework assignments I am completing as part of the Lede
 
 Hopefully my coding will improve as the program progresses!
 
-## So far this repository contains:
+## This repository contains:
 
 * Homework 05: Even more APIs 
   * Part One: Geocoding
+  * Part Two: A WeatherAPI alternative
+  * Part Three: LastFM (Music)
+  * Part Four: Spotify API (Music *again!*)
 
